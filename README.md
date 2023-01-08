@@ -11,7 +11,7 @@ This protocol consists of three contracts.
 3. Marketplace
 
 # 1. Core 
-Contract that acts as a router, and factory ford deploying `Property` contracts. Most `Property` methods can ONLY be accessed through this contract.
+Contract that acts as a router, and factory for deploying `Property` contracts. Most `Property` methods can ONLY be accessed through this contract.
 
 <h2> Elements </h2>
 
