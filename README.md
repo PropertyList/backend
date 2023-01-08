@@ -167,9 +167,10 @@ uint8 `IDCounter` - increments Id number
         bool forSale;
     }
 ```
-<h2> Methods </h2>
 
 **sale** struct. Data structure which holds the saleID, the contract address of the property, the address of the seller, the price for the amount of shares, the deadline to be sold, the buyer of the sale, and an indicator marking if the shares are up for sale.
+
+<h2> Methods </h2>
 
 ```solidity
   function newSale(address _property, uint256 price, uint256 amount, uint256 _deadline) public
