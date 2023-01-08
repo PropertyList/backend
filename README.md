@@ -1,8 +1,9 @@
 # Split Estate
 Blockchain-based platform that allows anyone to be a landlord. It allows individuals to purchase fractions of apartment complexes, and earn a portion of the rent paid by tenants each month. Automates certain processes such as rent collection and distribution of profits.
 
-![ESTATEsol](https://user-images.githubusercontent.com/100609687/211189194-8198c641-55d3-403c-a7d0-8f1930b1025d.png)
 
+
+![ESTATEsol](https://user-images.githubusercontent.com/100609687/211211693-534ef820-f1d5-4662-8175-8904f0db1726.png)
 
 
 This protocol consists of three contracts.
