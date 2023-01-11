@@ -87,8 +87,6 @@ mapping(address=>uint) public `amtHeld` - mapping that tracks the amount fo time
 `Miscellaneous` erc20 elements like balances, allowances, totalSupply etc.
 
 
-Generic erc20 functions:
-
 <h2> Methods </h2>
 
 ```solidity
