@@ -80,6 +80,10 @@ uint256 `core` - instance of Core contract
 
 uint256 `USDC` - instance of USDC token, always pegged to $1.
 
+mapping(address=>uint) public `timeHeld` - mapping that tracks the length of time held by user, gets reset in transfer.
+
+mapping(address=>uint) public `amtHeld` - mapping that tracks the amount fo time held by user, gets updated when calling claiming rent payments.
+   
 `Miscellaneous` erc20 elements like balances, allowances, totalSupply etc.
 
 
